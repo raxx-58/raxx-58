@@ -10,16 +10,9 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-[cite_start]<a href="https://linkedin.com/in/radhika-mittal-b5585b232" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> [cite: 2]
-[cite_start]<a href="https://github.com/radhika-mittal" target="_blank"><img alt="" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center" /></a> [cite: 2]
+<a href="https://linkedin.com/in/radhika-mittal-b5585b232" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/radhika-mittal" target="_blank"><img alt="" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center" /></a>
 </p>
-
-
-<p align="center">
-<a href=#><img src="contributions.svg"></a> 
- </p>
-
- 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/radhika-mittal/count.svg"/>
@@ -31,7 +24,6 @@
 
 <p align="center">
 <a href="https://github.com/radhika-mittal?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=radhika-mittal&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@radhika-mittal's github-readme-stats"/></a>
-<a href="https://github.com/radhika-mittal?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=radhika-mittal&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@radhika-mittal's github-readme-streak-stats"/></a>
 </p>
 
 <br/>
@@ -40,15 +32,15 @@
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
 <p align="center">
-  [cite_start]<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://isocpp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cplusplus" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://devicon.dev/icon/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a> [cite: 40]
-  [cite_start]<a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" /></a> [cite: 40]
-  [cite_start]<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html5" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" width="40" height="40" /></a> [cite: 38]
-  [cite_start]<a href="https://www.javascript.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" /></a> [cite: 38]
+  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cplusplus" width="40" height="40" /></a>
+  <a href="https://devicon.dev/icon/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css3" width="40" height="40" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" /></a>
 </p>
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -58,69 +50,69 @@
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      [cite_start]<br>Python [cite: 38]
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      [cite_start]<br>C++ [cite: 38]
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      [cite_start]<br>MySQL [cite: 38]
+      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      [cite_start]<br>Django [cite: 40]
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      [cite_start]<br>Github [cite: 41]
+      <br>Github
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      [cite_start]<br>Git [cite: 41]
+      <br>Git
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      [cite_start]<br>HTML5 [cite: 38]
+      <br>HTML5
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      [cite_start]<br>CSS [cite: 38]
+      <br>CSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      [cite_start]<br>VsCode [cite: 41]
+      <br>VsCode
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter Notebook" />
-      [cite_start]<br>Jupyter [cite: 41]
+      <br>Jupyter
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" />
-      [cite_start]<br>Ubuntu [cite: 41]
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      [cite_start]<br>Docker [cite: 41]
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
-      [cite_start]<br>Kubernetes [cite: 41]
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" />
-      [cite_start]<br>Jenkins [cite: 41]
+      <br>Jenkins
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
-      [cite_start]<br>OpenCV [cite: 39]
+      <br>OpenCV
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-      [cite_start]<br>TensorFlow [cite: 39]
+      <br>TensorFlow
     </td>
   </tr>
 </table>
@@ -135,7 +127,7 @@
 </p>
 ---
 
-#### [cite_start]🅓🅔🅥🅔🅛🅞🅟🅔🅡 🅣🅞🅞🅛🅢 [cite: 41]
+#### 🅓🅔🅥🅔🅛🅞🅟🅔🅡 🅣🅞🅞🅛🅢
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
@@ -149,7 +141,7 @@
 
 ---
 
-#### [cite_start]🅟🅡🅞🅖🅡🅐🅜🅜🅘🅝🅖 🅛🅐🅝🅖🅤🅐🅖🅔🅢 & 🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢 [cite: 38, 40]
+#### 🅟🅡🅞🅖🅡🅐🅜🅜🅘🅝🅖 🅛🅐🅝🅖🅤🅐🅖🅔🅢 & 🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
@@ -164,7 +156,7 @@
 
 ---
 
-#### [cite_start]🅐🅘/🅜🅛 🅢🅚🅘🅛🅛🅢 [cite: 39]
+#### 🅐🅘/🅜🅛 🅢🅚🅘🅛🅛🅢
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
@@ -182,3 +174,4 @@ if (codeWorking){
             }
         }
 //
+<hr />
