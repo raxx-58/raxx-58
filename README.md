@@ -13,19 +13,6 @@
 <a href="https://linkedin.com/in/radhika-mittal-b5585b232" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/radhika-mittal" target="_blank"><img alt="" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center" /></a>
 </p>
-<p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/radhika-mittal/count.svg"/>
-  </p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhika-mittal&theme=gotham&layout=compact"width="47%"/> 
-</p>
-
-<p align="center">
-<a href="https://github.com/radhika-mittal?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=radhika-mittal&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@radhika-mittal's github-readme-stats"/></a>
-</p>
-
 <br/>
 
 <p align="center"> 
@@ -119,12 +106,6 @@
 <br><br>
 
 
-
-<p align="center">
-    <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhika-mittal&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
 ---
 
 #### 🅓🅔🅥🅔🅛🅞🅟🅔🅡 🅣🅞🅞🅛🅢
@@ -174,4 +155,3 @@ if (codeWorking){
             }
         }
 //
-<hr />
